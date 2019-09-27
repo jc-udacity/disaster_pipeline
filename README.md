@@ -19,5 +19,5 @@ This repository contains all required files to clean messages data, save in a da
     `python run.py`
 
 3. Go to http://localhost:3001/
-    You will see some graphs such as 
-    ![Top 5 categories(top5.png "Top 5 categories")
+    You will see some graphs such as:
+![Top 5 categories(top5.png)
