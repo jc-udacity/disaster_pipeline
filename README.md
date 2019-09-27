@@ -20,4 +20,4 @@ This repository contains all required files to clean messages data, save in a da
 
 3. Go to http://localhost:3001/
     You will see some graphs such as:
-![Top 5 categories(top5.png)
+!["Top 5 categories"](https://github.com/jc-udacity/disaster_pipeline/blob/master/top5.png)
